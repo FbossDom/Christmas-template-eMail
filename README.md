@@ -8,6 +8,7 @@ Productional process of an email creation - simulated
   - Dark mode compatible
   - Accesability was considered
 4. Tested the email in
-  - Gmail(windows web, android web, android app)
-  - Yahoo(windows web, android web, android app)
+  - Gmail(windows web, android web, android app) ✅
+  - Yahoo(windows web, android web, android app) ✅
   - Outlook(windows web, android web, android app)
+            --> Of course Outlook desktop app casues some problems with darkmode(color override - filter?), and dosent render background-image, but it was like that in the template i choose so i kept the design, normally i would suggest no overlaps or discuss alternate rendering options for outlook only
